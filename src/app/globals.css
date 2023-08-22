@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.form-main {
+  margin-top: 25px;
+}
+
+.retrive-image {
+  margin-top: 50px;
+  width: 150px;
+}
+
+.file {
+  display: flex;
+}
+
+.retrive {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
